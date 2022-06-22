@@ -1,0 +1,5 @@
+#Data is csv
+*.csv
+
+#venv
+venv
